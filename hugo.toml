@@ -1,0 +1,21 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-tw'
+title = '尚恩黃的部落格'
+theme = 'PaperMod'
+
+[params]
+  env = 'production'
+  title = "Shawn's lblog"
+  description = "專案開發與除錯日誌分享平台"
+  author = "尚恩黃"
+
+  # 首頁自我介紹區塊
+  [params.homeInfoParams]
+    Title = "Hi, I'm Shawn Huang!"
+    Content = "你好~我是尚恩黃。我是一名工程師，在此部落格中專注於各種專案開發與除錯日誌的分享!"
+
+  # 網站外觀功能
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowCodeCopyButtons = true
