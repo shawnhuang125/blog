@@ -11,8 +11,8 @@ theme = 'PaperMod'
 
   # 首頁自我介紹區塊
   [params.homeInfoParams]
-    Title = "Hi, I'm Shawn Huang!"
-    Content = "你好~我是尚恩黃。我是一名工程師，在此部落格中專注於各種專案開發與除錯日誌的分享!"
+    Title = "你好~我是尚恩黃!"
+    Content = "在此部落格中專注於各種專案開發與除錯日誌的分享!"
 
   # 網站外觀功能
   defaultTheme = "auto"

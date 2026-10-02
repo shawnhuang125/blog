@@ -2,17 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/first-post/</loc>
-    <lastmod>2026-10-02T11:21:48+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-10-02T11:21:48+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-10-02T11:21:48+08:00</lastmod>
+    <loc>http://localhost:1313/posts/network-debug-first/</loc>
+    <lastmod>2026-10-01T10:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-10-01T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/debug/</loc>
+    <lastmod>2026-10-01T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/linux/</loc>
+    <lastmod>2026-10-01T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/networking/</loc>
+    <lastmod>2026-10-01T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-10-01T10:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-10-01T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/%E5%B0%88%E6%A1%88%E7%B4%80%E9%8C%84/</loc>
+    <lastmod>2026-10-01T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-10-01T10:00:00+08:00</lastmod>
   </url>
 </urlset>
