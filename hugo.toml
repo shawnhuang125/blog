@@ -1,17 +1,17 @@
 baseURL = 'https://example.org/'
 languageCode = 'zh-tw'
-title = '尚恩黃的部落格'
+title = '艾布諾的部落格'
 theme = 'PaperMod'
 
 [params]
   env = 'production'
   title = "Shawn's lblog"
   description = "專案開發與除錯日誌分享平台"
-  author = "尚恩黃"
+  author = "艾布諾"
 
   # 首頁自我介紹區塊
   [params.homeInfoParams]
-    Title = "你好~我是尚恩黃!"
+    Title = "你好~我是艾布諾!"
     Content = "在此部落格中專注於各種專案開發與除錯日誌的分享!"
 
   # 網站外觀功能
