@@ -7,7 +7,7 @@ categories: ["歷史文章"]
 ---
 
 
-![呂后詔見蕭何入宮議事](Gemini_Generated_Image_8kg44g8kg44g8kg4.jpg)
+![呂后詔見蕭何入宮議事](content/posts/history_of_western_han_dinesty/Gemini_Generated_Image_8kg44g8kg44g8kg4.jpg)
 
 
 
@@ -16,11 +16,11 @@ categories: ["歷史文章"]
 - 大家在看楚漢傳奇的時候有看到在電視劇當中，呂稚(漢高祖劉邦的皇后)，他請蕭何把韓信騙到長樂宮裡面。
 - 韓信走進宮殿之後，知道了蕭何的目的，坦然的接受自己的命運，最後進入到長樂宮裡面，呂雉遵循了劉邦的五不死(見天不殺、見地不殺、見鐵器不殺、建君不殺，見繩索不殺)，在宮內，命宮女持木簪子，命宮女將韓信用布蓋起來，所有宮女持木簪子一起往韓信捅下去~韓信就這樣掰了。就是劇裡說的蕭何月下追韓信，韓信因此當上了漢家的大將軍，但到最後韓信的死也是因為蕭何就葛了，這就是所謂的:「成也蕭何、敗也蕭何。」
 
-![韓信被詔入宮](Gemini_Generated_Image_chthqychthqychth.jpg)
+![韓信被詔入宮](content/posts/history_of_western_han_dinesty/Gemini_Generated_Image_chthqychthqychth.jpg)
 
 ### 正史中記載的真實韓信死因
 - 但是歷史上淮陰侯韓信真的是這樣被殺了嗎?根據《史記:淮陰侯列傳》與《漢書:韓彭英列傳》中是記載了:陳豨在代地起兵叛亂，劉邦要御駕親征平定叛亂，留呂后在長安鎮守。但此時在長安城的呂后，得到了陳豨與韓信要聯合起來起意造反的消息，得知此事後，呂后詔見了蕭何緊急議事，在與蕭何討論後，它們打算假傳前線陳豨已死的捷報，詔所有大臣入宮，原本自從平定天下後都稱並不上朝的韓信，也因為蕭何親自傳他入宮的關係就去上朝了。
 
-![韓信在長樂宮內被抓](Gemini_Generated_Image_ndxl7qndxl7qndxl.jpg)
+![韓信在長樂宮內被抓](content/posts/history_of_western_han_dinesty/Gemini_Generated_Image_ndxl7qndxl7qndxl.jpg)
 
 韓信在蕭何的親傳之下，進入長樂宮，但一踏入長樂宮，他就被呂后下令武士把他綁起來，最後在長樂宮的鐘室(在那個時候用來放鐘樂相關樂器的一個地方)被斬殺，淮陰侯韓信就這樣被結束了他的生命。
