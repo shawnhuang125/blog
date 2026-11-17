@@ -12,7 +12,7 @@ theme = 'PaperMod'
   # 首頁自我介紹區塊
   [params.homeInfoParams]
     Title = "你好~我是艾布諾!"
-    Content = "在此部落格中專注於各種專案開發與除錯日誌的分享!"
+    Content = "在此部落格中專注於各種專案開發與除錯日誌的分享!除了專案開發以外我會在這裡分享一些歷史文章!"
 
   # 網站外觀功能
   defaultTheme = "auto"
