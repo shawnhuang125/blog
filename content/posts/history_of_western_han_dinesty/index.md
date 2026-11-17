@@ -7,7 +7,7 @@ categories: ["歷史文章"]
 ---
 
 
-![呂后詔見蕭何入宮議事](Gemini_Generated_Image_8kg44g8kg44g8kg4 (1).jpg)
+![呂后詔見蕭何入宮議事](Gemini_Generated_Image_8kg44g8kg44g8kg4.jpg)
 
 
 
