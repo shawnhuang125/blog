@@ -7,7 +7,8 @@ categories: ["歷史文章"]
 ---
 
 
-<img width="2752" height="1536" alt="Gemini_Generated_Image_ndxl7qndxl7qndxl" src="https://github.com/user-attachments/assets/e193c0fa-775f-479d-b14b-1f0b4e98f3ca" />
+[呂后詔見蕭何入宮議事](Gemini_Generated_Image_chthqychthqychth.jpg)
+
 
 
 ## 楚漢傳奇中的韓信之死
